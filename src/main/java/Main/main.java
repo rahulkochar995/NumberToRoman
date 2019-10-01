@@ -12,5 +12,7 @@ public class main {
         dictionary.put("I", 1);
         dictionary.put("V", 5);
         dictionary.put("X", 10);
+        dictionary.put("L", 50);
+        dictionary.put("C", 100);
     }
 }
