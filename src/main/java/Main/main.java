@@ -13,6 +13,6 @@ public class main {
 	dictionary.put("L", 50);
 	dictionary.put("C", 100);
 	dictionary.put("D", 500);
-	dictionary.put("M", 100000);
+	dictionary.put("M", 1000);
     }
 }
